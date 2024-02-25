@@ -1,4 +1,4 @@
-# **NOTES** | Individual Project
+# **OIL RECOVERY** | HTML Project
 
 ## **📌 Introduction**
 
@@ -7,24 +7,13 @@
 
 <br />
 
-## **⚠️ SCRIPTS ** 
-The script is included in the project folder.
-
-- **Windows**:   ./start.sh
-
-
-<br />
-
-
 ---
 
 
 ## **Deploy**
 
-[![Click to Watch Video](frontend/src/images/notes%20app1%20.jpg)](https://drive.google.com/file/d/1pS9UE11Q7Wl8S765wJTjjpbpRK-iIGRR/view?usp=sharing)
+[![Click to Watch Deploy]](https://blog-eight-pi-56.vercel.app/)
 
-Click on the image to watch the video demo.
-
-Click on the image to watch the video demo.
+Click on the image to watch deploy.
 
 <br />
