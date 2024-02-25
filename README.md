@@ -12,7 +12,7 @@
 
 ## **Deploy**
 
-[![Click to Watch Deploy]](https://blog-eight-pi-56.vercel.app/)
+[![Click to Watch Video](img/imagendeploy.jpg)](https://blog-eight-pi-56.vercel.app/)
 
 Click on the image to watch deploy.
 
