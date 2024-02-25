@@ -7,6 +7,11 @@
         <meta name="description" content="esta es mi primer pagina web" />
         <meta name="author" content="nathalyquiva" />
         <meta name="keywords" content="aprendiendo software, primer blog" />
+        <style>
+            table, th, td {
+                border: 1px solid black;
+            }
+        </style>
     </head>
 
     <body>
@@ -48,6 +53,27 @@
                         <li style="list-style-type:lower-alpha">Química</li>
                     </ul>
         </nav>
+        <hr>
+        <h2>Datos escrutinio para procesos de recuperación primaria </h2>
+        <table>
+            <tr>
+                <th>MECANISMO</th>
+                <th>PRESIÓN DEL YACIMIENTO</th>
+                <th>RGA</th>
+                <th>PRODUCCIÓN DE AGUA</th>
+                <th>EFICIENCIA</th>
+                <th>OTROS</th>
+            </tr>
+            <tr>
+                <td>EXPANSIÓN ROCA-FLUIDO</td>
+                <td>Declina rápido y continuamente.</td>
+                <td>Permanece baja y constante.</td>
+                <td>Ninguna (Excepto en yacimientos con alta Sw)</td>
+                <td>1-10%</td>
+                <td></td>
+            </tr>
+        </table>
+        <br><br><br>
         <hr>
         <section>
             <article>
@@ -91,7 +117,7 @@
         <p>Comentarios</p>
         <form action="/formulario" method="post">
             <label for="name">Name:</label>
-            <input value="María" type="text" id="name" name="name" placeholder="Name"/>
+            <input  type="text" id="name" name="name" placeholder="Name"/>
             <br>
             <label for="lastName">Last Name:</label>
             <input id="lastName" name="lastName" placeholder="Last Name"/>
@@ -101,6 +127,7 @@
             <br>
             <button type="submit">Enviar</button>
         </form>
+        <hr>
         <footer>
             Creado por Nathaly Quiva. Derechos reservados 2024
         </footer>
